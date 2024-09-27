@@ -1,7 +1,8 @@
 {
-  "functions": {
-    "api/**/*.php": {
-      "runtime": "vercel-php@1.0.0"  // Use the latest version available
+    "functions": {
+      "api/**/*.php": {
+        "runtime": "vercel-php@1.0.0"
+      }
     }
   }
-}
+  
